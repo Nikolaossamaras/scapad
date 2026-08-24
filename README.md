@@ -28,7 +28,12 @@ Here is the list of the components needed
 
 •USB-C connection
 
-
+# FIRMWARE
+the firmware is writen in python by using the keyboard-optimized CircuitPython build for the XIAO SAMD21.
+Recommended version:
+CircuitPython 10.2.1 — XIAO SAMD21 Keyboard Optimized
+DOWNLOAD 
+## [HERE](https://circuitpython.org/board/seeeduino_xiao_kb/)
 
 
 
