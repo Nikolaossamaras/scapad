@@ -11,7 +11,8 @@ this macropad has 3 buttons:
 | 2            | SW3        | D8       | UNDO (Ctrl+Z) |
 
 # Schematic (wiring)
-The Schematic is simple you just connect one side of each switch to gnd and the other side to the XIAO PIN that it belongs to
+### The Schematic is simple you just connect one side of each switch to gnd and the other side to the XIAO PIN that it belongs to
+
 <img width="988" height="527" alt="image" src="https://github.com/user-attachments/assets/06db5a02-214d-47f7-acf7-ee87bcca0335" />
 
 # Hardware
