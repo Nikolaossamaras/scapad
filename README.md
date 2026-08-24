@@ -54,6 +54,25 @@ CIRCUITPY/
 ```
 CircuitPython will automatically run the file.
 
+# CASE (not required to work)
+The case is purely for design and protection reasons
+You can download my version of the case from here 
+```text
+CAD/scapadv2.step
+```
+or
+```text
+CAD/scapadv2.f3d
+```
+
+# IMPORTANT 
+The project is specifically made for the XIAO SAMD21 and the PCB pin connections listed above.
+Do not use the code.py if you are using a diffrent microcontroller or if you are using diffrent connection the code will need changes
+
+# CREDITS
+-[hackclub hackpad guide](https://hackpad.hackclub.com/guide) - helped with the case and pcb design
+-[Open AI](https://chatgpt.com) - helped with the firmware
+
 
 
 
