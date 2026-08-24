@@ -71,6 +71,7 @@ Do not use the code.py if you are using a diffrent microcontroller or if you are
 
 # CREDITS
 -[hackclub hackpad guide](https://hackpad.hackclub.com/guide) - helped with the case and pcb design
+
 -[Open AI](https://chatgpt.com) - helped with the firmware
 
 
