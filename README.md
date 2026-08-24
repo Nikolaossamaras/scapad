@@ -19,9 +19,13 @@ this macropad has 3 buttons:
 Here is the list of the components needed
 
 •Seeed Studio XIAO SAMD21
+
 •Any MX-style mechanical switch *3
+
 •Custom PCB
+
 •Custom Case
+
 •USB-C connection
 
 
