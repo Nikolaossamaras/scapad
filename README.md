@@ -32,8 +32,27 @@ Here is the list of the components needed
 the firmware is writen in python by using the keyboard-optimized CircuitPython build for the XIAO SAMD21.
 Recommended version:
 CircuitPython 10.2.1 — XIAO SAMD21 Keyboard Optimized
-DOWNLOAD 
-## [HERE](https://circuitpython.org/board/seeeduino_xiao_kb/)
+DOWNLOAD:
+### [HERE](https://circuitpython.org/board/seeeduino_xiao_kb/)
+
+### INSTAL FIRMWARE
+## 1st step
+Intall CircuitPython
+## 2nd step
+Put the XIAO into bootloader mode by using its reset procedure, then copy the downloaded `.UF2` file to the bootloader drive.
+After it restarts, a drive named `CIRCUITPY` should appear.
+## 3rd step
+Copy `code.py`
+Copy:
+```text
+firmware/code.py
+```
+to the root of the `CIRCUITPY` drive:
+```text
+CIRCUITPY/
+└── code.py
+```
+CircuitPython will automatically run the file.
 
 
 
