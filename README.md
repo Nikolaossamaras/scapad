@@ -14,6 +14,8 @@ this macropad has 3 buttons:
 ### The Schematic is simple you just connect one side of each switch to gnd and the other side to the XIAO PIN that it belongs to
 
 <img width="988" height="527" alt="image" src="https://github.com/user-attachments/assets/06db5a02-214d-47f7-acf7-ee87bcca0335" />
+# Pcb Preview 
+<img width="552" height="510" alt="Screenshot 2026-08-24 191812" src="https://github.com/user-attachments/assets/60d891aa-4225-4b24-af61-711f7fa59eb2" />
 
 # Hardware
 Here is the list of the components needed
@@ -53,6 +55,8 @@ CIRCUITPY/
 └── code.py
 ```
 CircuitPython will automatically run the file.
+## Code preview
+<img width="354" height="446" alt="image" src="https://github.com/user-attachments/assets/dece1582-a135-4775-a9a3-cb625c287d23" />
 
 # CASE (not required to work)
 The case is purely for design and protection reasons
@@ -64,6 +68,8 @@ or
 ```text
 CAD/scapadv2.f3d
 ```
+## Case preview
+<img width="607" height="374" alt="image" src="https://github.com/user-attachments/assets/d2382e5d-2d8b-471e-a4c8-f78757d8ce5d" />
 
 # IMPORTANT 
 The project is specifically made for the XIAO SAMD21 and the PCB pin connections listed above.
