@@ -22,6 +22,9 @@ this macropad has 3 buttons:
 # build preview 
 <img width="118" height="134" alt="image" src="https://github.com/user-attachments/assets/a672de5b-4a4e-4693-893b-ac985d6ac9f8" />
 
+<img width="126" height="104" alt="image" src="https://github.com/user-attachments/assets/2dafdc03-a9c3-4b98-9e75-ae7cb671c996" />
+
+
 # Hardware
 Here is the list of the components needed
 
