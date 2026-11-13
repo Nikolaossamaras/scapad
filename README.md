@@ -18,6 +18,7 @@ this macropad has 3 buttons:
 # Pcb Preview 
 
 <img width="552" height="510" alt="Screenshot 2026-08-24 191812" src="https://github.com/user-attachments/assets/60d891aa-4225-4b24-af61-711f7fa59eb2" />
+
 # build preview 
 <img width="118" height="134" alt="image" src="https://github.com/user-attachments/assets/a672de5b-4a4e-4693-893b-ac985d6ac9f8" />
 
